@@ -1,4 +1,5 @@
 # Grafana Installation Guide for Celestia Node
+![image](https://github.com/user-attachments/assets/b1aacb64-d669-4f69-80a0-d9512af25bc6)
 
 ## Introduction
 
